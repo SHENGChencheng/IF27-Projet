@@ -1,0 +1,57 @@
+[09-Apr-2024 10:37:44 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 10:37:44 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 10:37:46 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 10:37:46 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 12:46:55 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\model\ModelPersonne.php on line 95
+[09-Apr-2024 12:46:55 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 12:46:55 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 12:46:55 Europe/Paris] PHP   2. ControllerConnexion::Login() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:60
+[09-Apr-2024 12:46:55 Europe/Paris] PHP   3. Modelpersonne::CheckLogin() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\controller\ControllerConnexion.php:29
+[09-Apr-2024 12:49:03 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\model\ModelPersonne.php on line 95
+[09-Apr-2024 12:49:03 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 12:49:03 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 12:49:03 Europe/Paris] PHP   2. ControllerConnexion::Login() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:60
+[09-Apr-2024 12:49:03 Europe/Paris] PHP   3. Modelpersonne::CheckLogin() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\controller\ControllerConnexion.php:29
+[09-Apr-2024 12:53:53 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\model\ModelPersonne.php on line 158
+[09-Apr-2024 12:53:53 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 12:53:53 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 12:53:53 Europe/Paris] PHP   2. ControllerConnexion::pageInscription() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:60
+[09-Apr-2024 12:53:53 Europe/Paris] PHP   3. Modelpersonne::getAllSpecialite() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\controller\ControllerConnexion.php:80
+[09-Apr-2024 12:54:30 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\model\ModelPersonne.php on line 95
+[09-Apr-2024 12:54:30 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 12:54:30 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 12:54:30 Europe/Paris] PHP   2. ControllerConnexion::Login() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:60
+[09-Apr-2024 12:54:30 Europe/Paris] PHP   3. Modelpersonne::CheckLogin() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\controller\ControllerConnexion.php:29
+[09-Apr-2024 13:00:26 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\model\ModelPersonne.php on line 95
+[09-Apr-2024 13:00:26 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 13:00:26 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 13:00:26 Europe/Paris] PHP   2. ControllerConnexion::Login() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:60
+[09-Apr-2024 13:00:26 Europe/Paris] PHP   3. Modelpersonne::CheckLogin() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\controller\ControllerConnexion.php:29
+[09-Apr-2024 13:01:25 Europe/Paris] PHP Fatal error:  Call to a member function prepare() on a non-object in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\model\ModelPersonne.php on line 95
+[09-Apr-2024 13:01:25 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 13:01:25 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 13:01:25 Europe/Paris] PHP   2. ControllerConnexion::Login() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:60
+[09-Apr-2024 13:01:25 Europe/Paris] PHP   3. Modelpersonne::CheckLogin() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\controller\ControllerConnexion.php:29
+[09-Apr-2024 11:03:51 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:03:51 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:03:52 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:03:53 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:07:01 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:07:01 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:07:03 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 11:07:03 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 13:11:28 Europe/Paris] PHP Notice:  Undefined index: action in C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php on line 19
+[09-Apr-2024 13:11:28 Europe/Paris] PHP Stack trace:
+[09-Apr-2024 13:11:28 Europe/Paris] PHP   1. {main}() C:\wamp\www\doctolib_lo07\doctolib_lo07\app\router\router2.php:0
+[09-Apr-2024 13:05:02 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 13:05:02 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 13:05:04 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[09-Apr-2024 13:05:04 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Apr-2024 23:08:46 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Apr-2024 23:08:46 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Apr-2024 23:08:48 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[29-Apr-2024 23:08:48 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[16-May-2024 11:43:13 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[16-May-2024 11:43:13 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[16-May-2024 11:43:14 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
+[16-May-2024 11:43:14 UTC] PHP Warning:  PHP Startup:  in Unknown on line 0
